@@ -1,5 +1,5 @@
-1.34.0 / 2018-06-03
-===================
+unreleased
+==========
 
   * Add extension `.csl` to `application/vnd.citationstyles.style+xml`
   * Add extension `.es` to `application/ecmascript`
